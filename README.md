@@ -6,7 +6,7 @@ Analyzed property prices in North Vancouver using regression models. Identified 
 ## Author  
 Samarth Verma  
 
----
+----
 
 ## Project Overview  
 This analysis explores housing trends and price determinants in North Vancouver. Using a structured dataset of sold properties, the goal was to inform buyers, sellers, investors, and planners.
