@@ -18,7 +18,7 @@ This analysis explores housing trends and price determinants in North Vancouver.
 - Cleaned data: handled missing values, removed outliers using comparative pricing  
 - Standardized formatting and ensured consistency across variables  
 
----
+----
 
 ## Analysis Performed
 - Price trends from 2010–2019  
