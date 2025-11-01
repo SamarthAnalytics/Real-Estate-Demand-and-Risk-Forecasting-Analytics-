@@ -1,4 +1,5 @@
-# North Vancouver Housing Market Analysis
+# Real Estate Demand & Risk Forecasting Analytics <img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/3a910e01-e97f-43d2-aef5-99286b87a5dd" />
+
 
 **Description:**  
 Analyzed property prices in North Vancouver using regression models. Identified year sold, building size, and special features as key drivers of housing value.
